@@ -1,0 +1,17 @@
+.list {
+  background-color: #212121;
+  margin-bottom: 10px;
+  display: none;
+}
+
+.list .container {
+  background-color: #212121;
+}
+
+.list .container ul Li {
+  color: white;
+  padding: 5px 10px;
+  border-bottom: 1px solid #3e3e3e;
+  background-color: #212121;
+}
+/*# sourceMappingURL=list.css.map */

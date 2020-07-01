@@ -1,0 +1,59 @@
+.video {
+  margin: 20px 0;
+}
+
+.video .container iframe {
+  margin: 10px;
+}
+
+.video .container h3 {
+  color: white;
+  margin: 10px 0;
+  margin-top: 0;
+  width: 98%;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+  margin: 0 10px;
+  letter-spacing: 0.4px;
+  font-size: 22px;
+}
+
+.video .container .chap {
+  margin: 30px 0;
+  -webkit-transform: translateY(-15px);
+          transform: translateY(-15px);
+}
+
+.video .container .chap p {
+  margin: 0 10px;
+  color: white;
+  font-size: 20px;
+}
+
+.video .container .chap ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 10px;
+}
+
+.video .container .chap ul li {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #ccc;
+  margin-right: 5px;
+}
+
+.video .container .chap ul li a {
+  color: white;
+  background-color: transparent;
+}
+
+.video .container .chap ul li:last-child {
+  margin-right: 0;
+}
+
+.video .container .chap ul li.active {
+  background-color: #b13f3f;
+}
+/*# sourceMappingURL=view.css.map */
